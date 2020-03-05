@@ -76,7 +76,6 @@
           <e p="Collision_Grenade.cs" t="Include" />
           <e p="Collision_Grenaille.cs" t="Include" />
           <e p="CollisionVie.cs" t="Include" />
-          <e p="Faster.cs" t="Include" />
           <e p="Follow_player.cs" t="Include" />
           <e p="GunSwap.cs" t="Include" />
           <e p="Life.cs" t="Include" />
