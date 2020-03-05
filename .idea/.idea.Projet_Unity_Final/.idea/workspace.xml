@@ -2,9 +2,79 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7666717-4701-4dc3-91bb-a9b995366a03" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Projet_Unity_Final/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Projet_Unity_Final/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Projet_Unity_Final/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Projet_Unity_Final/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Faster.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Faster.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3D Models/Props/Ammunition/Bullet 0.45/Mesh/Materials/Bullet_045.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3D Models/Props/Ammunition/Bullet 0.45/Mesh/Materials/Bullet_045.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3D Models/Props/Ammunition/Bullet 7.62/Mesh/Materials/Bullet_Copper.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3D Models/Props/Ammunition/Bullet 7.62/Mesh/Materials/Bullet_Copper.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3D Models/Props/Ammunition/Bullet 7.62/Mesh/Materials/Bullet_Copper_v2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3D Models/Props/Ammunition/Bullet 7.62/Mesh/Materials/Bullet_Copper_v2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3D Models/Props/Ammunition/Bullet 7.62/Mesh/Materials/Shell_Copper.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3D Models/Props/Ammunition/Bullet 7.62/Mesh/Materials/Shell_Copper.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3D Models/Props/Ammunition/Bullet 7.62/Mesh/Materials/Shell_DarkZinc.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3D Models/Props/Ammunition/Bullet 7.62/Mesh/Materials/Shell_DarkZinc.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3D Models/Props/Ammunition/Bullet 9x19/Mesh/Materials/Bullet.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3D Models/Props/Ammunition/Bullet 9x19/Mesh/Materials/Bullet.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3D Models/Props/Ammunition/Bullet 9x19/Mesh/Materials/Shell.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3D Models/Props/Ammunition/Bullet 9x19/Mesh/Materials/Shell.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3D Models/Props/Ammunition/Materials/Plane.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3D Models/Props/Ammunition/Materials/Plane.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AurynSky/Forest Pack/Materials/ColorPaletteBLUE.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AurynSky/Forest Pack/Materials/ColorPaletteBLUE.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AurynSky/Forest Pack/Materials/ColorPaletteNormal.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AurynSky/Forest Pack/Materials/ColorPaletteNormal.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AurynSky/Forest Pack/Materials/ColorPaletteRED.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AurynSky/Forest Pack/Materials/ColorPaletteRED.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AurynSky/Forest Pack/Materials/ShowCase.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AurynSky/Forest Pack/Materials/ShowCase.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AurynSky/Forest Pack/Materials/Water.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AurynSky/Forest Pack/Materials/Water.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AurynSky/Forest Pack/Materials/WaterTile.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AurynSky/Forest Pack/Materials/WaterTile.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/Color_Life.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Color_Life.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/Color_Zombie.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Color_Zombie.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/Grenade.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Grenade.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/Grenaille.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Grenaille.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/Machine_Gun.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Machine_Gun.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/Mur.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Mur.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/Perso_Color_Minimap.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Perso_Color_Minimap.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/Pistol.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Pistol.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/ShotGun_Bullet.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/ShotGun_Bullet.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Materials/MauveSmooth.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SampleScenes/Materials/MauveSmooth.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Materials/NavyDarkGrid.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SampleScenes/Materials/NavyDarkGrid.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Materials/NavyDarkSmooth.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SampleScenes/Materials/NavyDarkSmooth.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Materials/NavyGrid.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SampleScenes/Materials/NavyGrid.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Materials/NavySmooth.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SampleScenes/Materials/NavySmooth.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Materials/OrangeSmooth.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SampleScenes/Materials/OrangeSmooth.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Materials/PinkSmooth.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SampleScenes/Materials/PinkSmooth.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Materials/TealSmooth.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SampleScenes/Materials/TealSmooth.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Materials/TurquoiseSmooth.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SampleScenes/Materials/TurquoiseSmooth.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Materials/WhiteSmooth.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SampleScenes/Materials/WhiteSmooth.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Materials/YellowSmooth.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SampleScenes/Materials/YellowSmooth.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Models/Materials/Asteroid.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SampleScenes/Models/Materials/Asteroid.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Models/Materials/SpaceshipGlow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SampleScenes/Models/Materials/SpaceshipGlow.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Models/Materials/SpaceshipHull.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SampleScenes/Models/Materials/SpaceshipHull.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/RollerBall/Materials/RollerBallGrey.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/RollerBall/Materials/RollerBallGrey.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/RollerBall/Materials/RollerBallWhite.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/RollerBall/Materials/RollerBallWhite.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Materials/EthanGrey.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Materials/EthanGrey.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Materials/EthanWhite.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Materials/EthanWhite.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/TessellationShaders/Materials/TesselatedBumpSpecular.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Effects/TessellationShaders/Materials/TesselatedBumpSpecular.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Materials/WaterDefault.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Materials/WaterDefault.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Materials/WaterPlaneMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Materials/WaterPlaneMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Materials/OceanPlaneMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Materials/OceanPlaneMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Materials/NavyGrid.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Materials/NavyGrid.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Materials/NavySmooth.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Materials/NavySmooth.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Materials/PinkGrid.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Materials/PinkGrid.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Materials/PinkSmooth.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Materials/PinkSmooth.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Materials/YellowGrid.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Materials/YellowGrid.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Materials/YellowSmooth.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Materials/YellowSmooth.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftFuselageGrey.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftFuselageGrey.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftFuselageWhite.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftFuselageWhite.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsJetGrey.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsJetGrey.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsJetWhite.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsJetWhite.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsPropellerBlurGrey.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsPropellerBlurGrey.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsPropellerBlurWhite.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsPropellerBlurWhite.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsPropellersGrey.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsPropellersGrey.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsPropellersWhite.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsPropellersWhite.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Materials/SkyCarBodyGrey.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Materials/SkyCarBodyGrey.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Materials/SkyCarBodyWhite.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Materials/SkyCarBodyWhite.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Materials/SkyCarLightCoversGrey.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Materials/SkyCarLightCoversGrey.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Materials/SkyCarLightCoversWhite.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Materials/SkyCarLightCoversWhite.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Materials/SkyCarWheelGrey.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Materials/SkyCarWheelGrey.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Materials/SkyCarWheelWhite.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Materials/SkyCarWheelWhite.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Materials/Crate - Surface Shader Scene.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Materials/Crate - Surface Shader Scene.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Materials/Ground - Logo Scene.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Materials/Ground - Logo Scene.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Materials/Ground - Surface Shader Scene.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Materials/Ground - Surface Shader Scene.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Materials/Small Crate_diffuse.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Materials/Small Crate_diffuse.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UniversalRenderPipelineAsset_Renderer.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UniversalRenderPipelineAsset_Renderer.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Zombie.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Zombie.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +194,7 @@
       <workItem from="1583094628769" duration="794000" />
       <workItem from="1583244075266" duration="168000" />
       <workItem from="1583244258499" duration="1294000" />
-      <workItem from="1583252034247" duration="30183000" />
+      <workItem from="1583252034247" duration="30890000" />
     </task>
     <servers />
   </component>
