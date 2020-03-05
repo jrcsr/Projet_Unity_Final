@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7666717-4701-4dc3-91bb-a9b995366a03" name="Default Changelist" comment="" />
+    <list default="true" id="c7666717-4701-4dc3-91bb-a9b995366a03" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Projet_Unity_Final/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Projet_Unity_Final/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Projet_Unity_Final/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Projet_Unity_Final/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Faster.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Faster.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Restart.cs" root0="FORCE_HIGHLIGHTING" />
@@ -58,7 +65,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Affichage.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Collision_Grenade.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BulletSpawn.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Faster.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Follow_player.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GunSwap.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Life.cs" />
@@ -67,10 +73,12 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Restart.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/StartGame.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Spawn_Zombie.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Faster.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1YJuQtGBCJHicWo4bLIspSgmMAu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -116,7 +124,7 @@
       <workItem from="1583094628769" duration="794000" />
       <workItem from="1583244075266" duration="168000" />
       <workItem from="1583244258499" duration="1294000" />
-      <workItem from="1583252034247" duration="29486000" />
+      <workItem from="1583252034247" duration="30183000" />
     </task>
     <servers />
   </component>

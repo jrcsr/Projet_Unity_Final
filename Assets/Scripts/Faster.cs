@@ -21,6 +21,6 @@ public class Faster : MonoBehaviour
         gameObject.GetComponent<RigidbodyFirstPersonController>().movementSettings.StrafeSpeed =
             (float) ((zombie_spawner.GetComponent<Spawn_Zombie>().getNbrVague() - 1) * 0.3 * 20 + 20);
         gameObject.GetComponent<RigidbodyFirstPersonController>().movementSettings.JumpForce =
-            (float) ((zombie_spawner.GetComponent<Spawn_Zombie>().getNbrVague() - 1) * 0.3 * 100 + 100);
+            (float) ((zombie_spawner.GetComponent<Spawn_Zombie>().getNbrVague() - 1) * 0.3 * 150 + 150);
     }
 }
