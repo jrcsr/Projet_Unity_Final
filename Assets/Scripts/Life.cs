@@ -27,9 +27,9 @@ public class Life : MonoBehaviour
     private void Update()
     {
         displayPDV.text = PDV.ToString();
-        if (PDV == 0)
+        if (PDV <= 0)
         {
-            SceneManager.LoadScene("Menu");
+            SceneManager.LoadScene("GameOver");
         }
     }
 }

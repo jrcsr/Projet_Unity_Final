@@ -2,38 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7666717-4701-4dc3-91bb-a9b995366a03" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Projet_Unity_Final/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Projet_Unity_Final/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Projet_Unity_Final/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Projet_Unity_Final/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Projet_Unity_Final/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Projet_Unity_Final/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Ground textures pack/Dry ground/Dry ground pattern.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ground textures pack/Dry ground/Dry ground pattern.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Ground textures pack/Grass &amp; dead leafs 01/Grass &amp; dead leafs pattern 01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ground textures pack/Grass &amp; dead leafs 01/Grass &amp; dead leafs pattern 01.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Ground textures pack/Grass &amp; dead leafs 02/Grass &amp; dead leafs pattern 02.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ground textures pack/Grass &amp; dead leafs 02/Grass &amp; dead leafs pattern 02.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Ground textures pack/Grass &amp; rocks/Grass &amp; rocks pattern.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ground textures pack/Grass &amp; rocks/Grass &amp; rocks pattern.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Ground textures pack/Grass 01/Grass pattern 01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ground textures pack/Grass 01/Grass pattern 01.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Ground textures pack/Grass 02/Grass pattern 02.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ground textures pack/Grass 02/Grass pattern 02.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Ground textures pack/Grass 03/Grass pattern 03.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ground textures pack/Grass 03/Grass pattern 03.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Ground textures pack/Grass 04/Grass pattern 04.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ground textures pack/Grass 04/Grass pattern 04.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Ground textures pack/Grass 05/Grass pattern 05.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ground textures pack/Grass 05/Grass pattern 05.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Ground textures pack/Grass 06/Grass pattern 06.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ground textures pack/Grass 06/Grass pattern 06.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Ground textures pack/Ground &amp; moss/Ground &amp; moss pattern.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ground textures pack/Ground &amp; moss/Ground &amp; moss pattern.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Ground textures pack/Ground &amp; rocks 01/Ground &amp; rocks pattern 01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ground textures pack/Ground &amp; rocks 01/Ground &amp; rocks pattern 01.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Ground textures pack/Ground &amp; rocks 02/Ground &amp; rocks pattern 02.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ground textures pack/Ground &amp; rocks 02/Ground &amp; rocks pattern 02.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Ground textures pack/Ground &amp; rocks 03/Ground &amp; rocks pattern 03.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ground textures pack/Ground &amp; rocks 03/Ground &amp; rocks pattern 03.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Ground textures pack/Ground &amp; weeds/Ground &amp; weeds.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ground textures pack/Ground &amp; weeds/Ground &amp; weeds.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Ground textures pack/Ground 01/Ground pattern 01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ground textures pack/Ground 01/Ground pattern 01.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Ground textures pack/Ground 02/Ground pattern 02.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ground textures pack/Ground 02/Ground pattern 02.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Ground textures pack/Lava/Lava pattern.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ground textures pack/Lava/Lava pattern.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/ChateauBleu.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/ChateauBleu.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/ChateauRouge.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/ChateauRouge.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Color_Life.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Color_Life.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MinimapRenderTexture.renderTexture" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MinimapRenderTexture.renderTexture" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/New Terrain.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/New Terrain.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Jeu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Jeu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Menu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Faster.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Faster.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickUpSprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickUpSprite.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Zombie.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Zombie.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Life.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Life.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,13 +66,13 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/BulletSpawn.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Follow_player.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GunSwap.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Life.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CollisionVie.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Shoot.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Restart.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/StartGame.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Spawn_Zombie.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Faster.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Life.cs" />
       </list>
     </option>
   </component>
@@ -155,6 +125,7 @@
       <workItem from="1583244258499" duration="1294000" />
       <workItem from="1583252034247" duration="32376000" />
       <workItem from="1583421269354" duration="1075000" />
+      <workItem from="1583498257980" duration="233000" />
     </task>
     <servers />
   </component>
